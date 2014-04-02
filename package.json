@@ -1,30 +1,14 @@
 {
-  "name": "polyfill-webcomponents",
-  "version": "0.20140330.0",
+  "name": "timoxley-polyfill-webcomponents",
   "description": "Web Component Polyfills courtesy of Polymer",
-  "main": "index.js",
-  "scripts": {
-    "test": "make test"
-  },
-  "author": "Tim Oxley",
+  "version": "0.20140330.0",
   "keywords": [
     "template",
     "shadowdom",
     "observe",
     "WeakMap"
   ],
-  "license": "BSD-2-Clause",
-  "devDependencies": {
-    "beefy": "^1.1.0"
-  },
-  "directories": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/timoxley/polyfill-webcomponents.git"
-  },
-  "bugs": {
-    "url": "https://github.com/timoxley/polyfill-webcomponents/issues"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "license": "BSD-2-Clause"
 }

@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [timoxley/polyfill-webcomponents](http://github.com/timoxley/polyfill-webcomponents). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/timoxley-polyfill-webcomponents`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # polyfill-webcomponents
 
 ### Web Components Polyfills for use with [Browserify](https://github.com/substack/node-browserify).
